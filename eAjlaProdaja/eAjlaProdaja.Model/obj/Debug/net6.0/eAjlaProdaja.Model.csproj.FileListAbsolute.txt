@@ -1,0 +1,12 @@
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\bin\Debug\net6.0\eAjlaProdaja.Model.deps.json
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\bin\Debug\net6.0\eAjlaProdaja.Model.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\bin\Debug\net6.0\eAjlaProdaja.Model.pdb
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.AssemblyInfoInputs.cache
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.AssemblyInfo.cs
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.sourcelink.json
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\refint\eAjlaProdaja.Model.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\eAjlaProdaja.Model.pdb
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Model\obj\Debug\net6.0\ref\eAjlaProdaja.Model.dll

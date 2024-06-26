@@ -1,0 +1,16 @@
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\bin\Debug\net6.0\eAjlaProdaja.Services.deps.json
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\bin\Debug\net6.0\eAjlaProdaja.Services.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\bin\Debug\net6.0\eAjlaProdaja.Services.pdb
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\bin\Debug\net6.0\eAjlaProdaja.Model.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\bin\Debug\net6.0\eAjlaProdaja.Model.pdb
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.csproj.AssemblyReference.cache
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.AssemblyInfoInputs.cache
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.AssemblyInfo.cs
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.sourcelink.json
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.csproj.CopyComplete
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\refint\eAjlaProdaja.Services.dll
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\eAjlaProdaja.Services.pdb
+C:\Users\Ajla\OneDrive - Faculty of Information Technologies\Desktop\RS2 vjezbe\RazvojSoftvera2\eAjlaProdaja\eAjlaProdaja.Services\obj\Debug\net6.0\ref\eAjlaProdaja.Services.dll
